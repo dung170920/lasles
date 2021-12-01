@@ -1,0 +1,19 @@
+.network {
+    padding-top: 150px;
+    .heading {
+        max-width: 380px;
+        margin: 0 auto;
+    }
+    &-image {
+        margin-top: 155px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .network {
+        padding-top: 50px;
+        &-image {
+            margin-top: 50px;
+        }
+    }
+}
