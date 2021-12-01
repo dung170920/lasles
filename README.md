@@ -9,5 +9,5 @@ Link to view the template: https://dung170920.github.io/lasles/
 
 ### You will find in this repo the following stuff:
 * The HTML,SCSS source used to demostrate the template
-* .gitignore file and README.md file to manage the content of this repo
+* README.md file to manage the content of this repo
 * ...
